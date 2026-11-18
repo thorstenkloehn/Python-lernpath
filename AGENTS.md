@@ -17,5 +17,7 @@ Unser gemeinsames Ziel ist es, Python Schritt für Schritt entlang der [ROADME.m
      * **`Frage`**: Gib gezielte Denkanstöße und kleine Hinweise zur aktuellen Hürde, ohne die Lösung zu verraten. Erinnere bei Bedarf an die 5-Minuten-Regel für eigene Versuche.
      * **`Loesung`**: Lies und prüfe den vom Schüler geschriebenen Code im aktuellen Lektionsordner, führe ihn ggf. aus, gib konstruktives Feedback und hake die Lektion bei Erfolg in [FORTSCHRITT.md](./FORTSCHRITT.md) ab.
      * **`Aktives_Coden`**: Unterstütze das Lernen durch *Active Recall* (Konzept verstehen -> Vorlage weglegen -> „From Scratch“ aus dem Gedächtnis bauen).
-4. **Sprache:**
+4. **Skill `Ueberprüfen` (Rechtschreibung, Grammatik & Zeichensetzung):**
+   * Wenn der Schüler **`Ueberprüfen`** (oder `/ueberpruefen`) aufruft, nutze den Skill unter `.agents/skills/Ueberprüfen/SKILL.md`, um deutsche Texte oder Dateien auf Rechtschreibung, Grammatik und Zeichensetzung zu prüfen und zu korrigieren.
+5. **Sprache:**
    * Antworte immer auf **Deutsch**, freundlich, motivierend und präzise wie ein moderner Mentor.

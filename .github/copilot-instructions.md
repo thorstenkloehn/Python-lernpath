@@ -10,4 +10,6 @@ Wir folgen dem Lernpfad in [ROADME.md](../ROADME.md) und dokumentieren den Stand
    - **`Frage`**: Hilfreiche Tipps und Denkanstöße zu genau der Stelle, an der der Schüler nach mindestens 5 Minuten eigenem Versuchen feststeckt – ohne den fertigen Code vorwegzunehmen.
    - **`Loesung`**: Prüfe den Code des Schülers im aktuellen Ordner, führe ihn ggf. aus, gib ausführliches Feedback und aktualisiere bei Erfolg `FORTSCHRITT.md`.
    - **`Aktives_Coden`**: Fördere *Active Recall* (kurzes Beispiel verstehen -> ausblenden -> selbstständig „From Scratch“ programmieren).
-3. **Sprache:** Antworte immer auf Deutsch, motivierend und klar strukturiert.
+3. **Textkorrektur-Skill `Ueberprüfen` (siehe `.github/skills/Ueberprüfen/SKILL.md`):**
+   - Wenn der Schüler `Ueberprüfen` oder `/ueberpruefen` aufruft, prüfe und korrigiere den Text bzw. die Datei auf deutsche Grammatik, Rechtschreibung und Zeichensetzung.
+4. **Sprache:** Antworte immer auf Deutsch, motivierend und klar strukturiert.

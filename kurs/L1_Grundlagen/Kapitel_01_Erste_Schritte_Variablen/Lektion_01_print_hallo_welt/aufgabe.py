@@ -1,3 +1,6 @@
-# Hallo Welt! ausgeben Bildschirm 
+# Hallo Welt! auf dem Bildschirm ausgeben
 print("Hallo Welt!")
-print("Status läuft,Version ist 10,")
+# Plugin-Name, Status und Version anzeigen
+print("Pflugin-Name: Otto")
+print("Status: läuft")
+print("Version: 10")

@@ -2,7 +2,7 @@
 
 > **Hinweis für KI-Agenten:** Lies diese Datei zu Beginn jeder Sitzung, um zu wissen, in welchem Kapitel und in welcher Lektion der Schüler gerade arbeitet. Jede Lektion behandelt **nur ein einzelnes, anfängerfreundliches Thema**. Aktualisiere den Status, sobald eine Lektion über `Loesung` erfolgreich abgeschlossen wurde.
 
-**Aktuelle Lektion:** `kurs/L1_Grundlagen/Kapitel_01_Erste_Schritte_Variablen/Lektion_02_variablen_strings_zahlen`
+**Aktuelle Lektion:** `kurs/L1_Grundlagen/Kapitel_01_Erste_Schritte_Variablen/Lektion_04_wahrheitswerte_vergleiche`
 
 ---
 
@@ -10,8 +10,8 @@
 
 ### Kapitel 01: Erste Schritte & Variablen (`Kapitel_01_Erste_Schritte_Variablen`)
 - [x] `Lektion_01_print_hallo_welt` – Erste Ausgabe mit `print()` & Kommentare (`#`)
-- [ ] `Lektion_02_variablen_strings_zahlen` – Variablen anlegen, Text (`str`) und Ganze Zahlen (`int`)
-- [ ] `Lektion_03_kommazahlen_rechnen` – Kommazahlen (`float`) & Grundrechenarten (`+`, `-`, `*`, `/`, `//`, `%`)
+- [x] `Lektion_02_variablen_strings_zahlen` – Variablen anlegen, Text (`str`) und Ganze Zahlen (`int`)
+- [x] `Lektion_03_kommazahlen_rechnen` – Kommazahlen (`float`) & Grundrechenarten (`+`, `-`, `*`, `/`, `//`, `%`)
 - [ ] `Lektion_04_wahrheitswerte_vergleiche` – Wahrheitswerte (`bool`: `True`/`False`) & Vergleiche (`==`, `!=`, `<`, `>`)
 
 ### Kapitel 02: Benutzereingabe & Strings (`Kapitel_02_Eingabe_und_Strings`)

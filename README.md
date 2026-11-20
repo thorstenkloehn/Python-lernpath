@@ -1,13 +1,30 @@
-# 🐍 Interaktiver Python-Kurs: Von Null zum eigenen Claude Code Plugin
+# 🐍 Dein strukturierter Python-Lernpfad (für Bash-Entwickler)
 
 Willkommen zu deinem persönlichen, KI-gestützten Python-Programmierkurs!
-In diesem Projekt ist die **KI dein Programmierlehrer** und **du bist der Schüler**. Du lernst Python Schritt für Schritt von den allerersten Grundlagen (`L1`) über fortgeschrittene Techniken (`L2`) bis zur Entwicklung eigener **Claude Code Plugins, Hooks, CLI-Tools und MCP-Server** (`L3`).
+In diesem Projekt ist die **KI dein Programmierlehrer** und **du bist der Schüler**. Du kennst die Shell bereits und lernst Python Schritt für Schritt: von den Grundlagen (`L1`) über fortgeschrittene Techniken (`L2`) bis zur Entwicklung eigener **Claude Code Plugins, Hooks, CLI-Tools und MCP-Server** (`L3`).
+
+## 📋 Voraussetzungen
+
+* **Du bist Bash-Entwickler:** Du schreibst bereits Shell-Skripte und kennst Variablen, `if`, Schleifen, Funktionen, Pipes und Exit-Codes.
+* **Kein Python-Vorwissen nötig:** Jede Lektion holt dich bei einem Bash-Konzept ab und zeigt, wie Python es löst (z. B. `echo` → `print()`, `read` → `input()`, `declare -A` → `dict`, `source` → `import`).
+* **Ein KI-Tool** (Claude Code, Antigravity CLI, Codex CLI oder GitHub Copilot) und **Python 3.10 oder neuer** auf deinem Rechner.
+
+## 🎯 Ergebnis
+
+Am Ende des Kurses hast du:
+
+* sauberen, getesteten und typisierten Python-Code geschrieben, statt Bash-Skripte zu verlängern,
+* eigene **CLI-Tools** gebaut, die `getopts` und `case`-Parsing ersetzen,
+* eigene **Claude Code Hooks** und einen **MCP-Server** in Python entwickelt,
+* ein fertiges **Claude Code Plugin** gebündelt und veröffentlicht.
+
+Den vollständigen Lernpfad findest du in [`ROADME.md`](./ROADME.md). Der Kurs wird laufend weiterentwickelt.
 
 ---
 
 ## 🚀 1. Wie funktioniert das Projekt im Alltag?
 
-Alle Lektionen liegen im Ordner [`kurs/`](./kurs/) und sind in **Stufen -> Kapitel -> Einzel-Lektionen** unterteilt. Jede Lektion behandelt **nur ein einziges Thema**, damit es für Anfänger nie zu schwer wird. Alle Ordner starten leer – du schreibst den Code selbst!
+Alle Lektionen liegen im Ordner [`kurs/`](./kurs/) und sind in **Stufen -> Kapitel -> Einzel-Lektionen** unterteilt. Jede Lektion behandelt **nur ein einziges Thema**, damit es nie zu schwer wird. Alle Ordner starten leer – du schreibst den Code selbst!
 
 ### Dein Ablauf für jede Lektion (4 einfache Befehle):
 
